@@ -40,7 +40,7 @@ sqlparameters =  function(){
   OPTIONS$inftol         <- 1e-8 
   OPTIONS$steptol        <- 1e-6 
   OPTIONS$maxit          <- 100
-  OPTIONS$printlevel     <- 0 
+  OPTIONS$printlevel     <- 0
   OPTIONS$scale_data     <- 0 
   OPTIONS$spdensity      <- 0.5 
   OPTIONS$rmdepconstr    <- 0 

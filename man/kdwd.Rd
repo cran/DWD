@@ -117,7 +117,7 @@ C = 100, fit = TRUE, cross = 0, class.weights = NULL,
   }
 }
 \author{
-  Hanwen Huang: \email{hanwenh@email.unc.edu};
+  Hanwen Huang: \email{hanwenh.unc@gmail.com};
   Perry Haaland: \email{Perry_Haaland@bd.com}; 
   Xiaosun Lu: \email{Xiaosun_Lu@bd.com}; 
   Yufeng Liu: \email{yfliu@email.unc.edu};

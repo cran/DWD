@@ -51,11 +51,9 @@ Kim-Chuan Toh , Michael J. Todd, and Reha H. Tutuncu\cr
 \url{http://www.math.nus.edu.sg/~mattohkc/sdpt3.html}
 }
 \author{
-  Hanwen Huang: \email{hanwenh@email.unc.edu};
+  Hanwen Huang: \email{hanwenh.unc@gmail.com};
   Perry Haaland: \email{Perry_Haaland@bd.com}; 
   Xiaosun Lu: \email{Xiaosun_Lu@bd.com}; 
-  Frances Tong: \email{Frances_Tong@bd.com};
-  Elaine McVey: \email{Elaine_McVey@bd.com};
   Yufeng Liu: \email{yfliu@email.unc.edu};
   J. S. Marron: \email{marron@email.unc.edu}
 }

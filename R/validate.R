@@ -26,7 +26,7 @@ validate=function(blk,At,C,b,X0,y0,Z0,spdensity){
 				print("validate: blk and At not compatible")
 			if(!is(At[[p]],"sparseMatrix"))
 				At[[p]] <- as(At[[p]],"dgTMatrix")
-#			print(C[[p]])
+			#print(C[[p]])
 			if (nnzero(C[[p]]) < spdensity*n){ 
 				if(!is(C[[p]],"sparseMatrix"))
 					C[[p]] <- as(C[[p]],"sparseMatrix")
